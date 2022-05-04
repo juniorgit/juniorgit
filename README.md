@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFKdweMGgtYUA/profile-displaybackgroundimage-shrink_350_1400/0/1516973481432?e=1643846400&v=beta&t=rKLQiBTn77jy6Wh-wAq6cc8LYKEW5Zak-LmR3ApizNQ">
+<img src="https://market.com.br/files/junior/back.jpg">
 
 ### Desenvolvimento
 * Web full-stack com C# (ASP.Net)
