@@ -2,7 +2,7 @@
 
 ### Desenvolvimento
 * Web full-stack com C# (ASP.Net)
-* Desktop com C#/Delphi (Windows) e Java (Linux)
+* Desktop com C#/Delphi (Windows e Linux)
 * PDV (NFC-e / PAF-ECF)
 * Sistema de autoatendimento (self-checkout)
 
@@ -12,7 +12,7 @@
 * TEF (cartão, pix, recarga celular, correspondente bancário)
 
 ### Banco de dados
-* PostgreSQL, MySQL e Firebird
+* PostgreSQL, MySQL/MariaDB e Firebird
 
 ### Outros
 * Documentação de sistemas e processos (manuais, helps online e vídeo)
