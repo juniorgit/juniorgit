@@ -1,4 +1,4 @@
-<img src="http://market.com.br/files/junior/back.jpg">
+<img src="http://market.com.br/files/junior/back.png">
 
 ### Desenvolvimento
 * Web full-stack com C# (ASP.Net)
