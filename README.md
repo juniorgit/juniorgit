@@ -2,7 +2,7 @@
 
 ### Desenvolvimento
 * Web full-stack com C# (ASP.Net)
-* Desktop com C#/Delphi (Windows e Linux)
+* Desktop (Windows e Linux) com C# e Delphi
 * PDV (NFC-e / PAF-ECF)
 * Sistema de autoatendimento (self-checkout)
 
@@ -15,7 +15,9 @@
 * PostgreSQL, MySQL/MariaDB e Firebird
 
 ### Outros
-* Documentação de sistemas e processos (manuais, helps online e vídeo)
+* Documentação de sistemas e processos
+* Elaboração de manuais e helps online
+* Edição de vídeo tutorial
 
 ### Link
 * [Perfil no Linkedin](https://www.linkedin.com/in/flaviojunior)
