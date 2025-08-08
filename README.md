@@ -1,26 +1,25 @@
 <img src="http://market.com.br/files/junior/back.png">
-
-### Tech
 <img src="http://market.com.br/files/junior/tech.svg">
-<hr style="border: none; height: 1px; background-color: gray;">
-<h3>Desenvolvimento</h3>
+
+### Desenvolvimento
 * Web full-stack com C# (ASP.Net)
 * Desktop (Windows e Linux) com C# e Delphi
-* PDV (NFC-e / PAF-ECF)
+* PDV (PAF-NFC-e)
 * Sistema de autoatendimento (self-checkout)
-
+-------------------------
 ### Integração
-* Hardware (scanner, teclado com display, balança de caixa, balança de conferência, torre luminosa)
+* Hardware (impressora térmica, scanner, teclado com display, balança de caixa, balança de conferência, torre sinalizadora)
 * Geração de SPED (EFD Fiscal, EFD Contribuições e layout Domínio)
 * TEF (cartão, pix, recarga celular, correspondente bancário)
-
+-------------------------
 ### Banco de dados
-* PostgreSQL, MySQL/MariaDB e Firebird
-
+* PostgreSQL, MySQL, MariaDB e Firebird
+-------------------------
 ### Outros
 * Documentação de sistemas e processos
 * Elaboração de manuais e helps online
 * Edição de vídeo tutorial
-
-### Link
-* [Perfil no Linkedin](https://www.linkedin.com/in/flaviojunior)
+-------------------------
+### Links
+* [Linkedin](https://www.linkedin.com/in/flaviojunior)
+* [Instagram](https://www.instagram.com/flaviojr77)
