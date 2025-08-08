@@ -3,7 +3,7 @@
 ### Tech
 <img src="http://market.com.br/files/junior/tech.svg">
 <hr style="border: none; height: 1px; background-color: gray;">
-### Desenvolvimento
+<h3>Desenvolvimento</h3>
 * Web full-stack com C# (ASP.Net)
 * Desktop (Windows e Linux) com C# e Delphi
 * PDV (NFC-e / PAF-ECF)
