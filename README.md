@@ -2,7 +2,7 @@
 
 ### Tech
 <img src="http://market.com.br/files/junior/tech.svg">
-<hr>
+<hr style="border: none; height: 1px; background-color: gray;">
 ### Desenvolvimento
 * Web full-stack com C# (ASP.Net)
 * Desktop (Windows e Linux) com C# e Delphi
