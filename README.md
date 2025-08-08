@@ -1,5 +1,8 @@
 <img src="http://market.com.br/files/junior/back.png">
 
+### tech
+<img src="[http://market.com.br/files/junior/back.png](https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,js,html,css,bootstrap)">
+
 ### Desenvolvimento
 * Web full-stack com C# (ASP.Net)
 * Desktop (Windows e Linux) com C# e Delphi
